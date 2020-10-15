@@ -1,3 +1,20 @@
+Project Description
+
+
+Hand gesture recognition is very significant for human-computer
+interaction. In this work, we present a novel real-time method for hand
+gesture recognition. In this project, we propose to design a real time system
+to detect the hand gesture for the Computer System. We
+propose to use the techniques of machine learning and computer vision to
+perform hand gesture recognition. We propose to collect multiple images of
+different and distinct classes of hand gestures and propose to design a
+transfer learning based deep learning system to classify the images.
+
+
+Run and Installation
+
+
+
 To Perform Gesture Recognition, Execute each of the lines one after the other in terminal
 
 Training: (One time)
